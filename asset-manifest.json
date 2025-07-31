@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0ef2c5ea.css",
-    "main.js": "/static/js/main.8a2dec27.js",
+    "main.js": "/static/js/main.20be71ef.js",
     "static/js/453.542084a0.chunk.js": "/static/js/453.542084a0.chunk.js",
     "static/media/huffle-room - Made with Clipchamp.mp4": "/static/media/huffle-room - Made with Clipchamp.d2695089eb547cb4adea.mp4",
-    "static/media/yellowforest.png": "/static/media/yellowforest.cb7f1c80a7d8dca8713d.png",
     "static/media/(A) Arslan Wessam A (A) Arslan Wessam A.ttf": "/static/media/(A) Arslan Wessam A (A) Arslan Wessam A.16357d4c4bae49e59330.ttf",
     "static/media/bixy.jpg": "/static/media/bixy.f01716f0bbf49ca6735a.jpg",
-    "static/media/4xanimal.jpg": "/static/media/4xanimal.833105791f901aa54dd9.jpg",
-    "static/media/3xanimal.jpg": "/static/media/3xanimal.c88a0bbbdb0969cf6180.jpg",
     "static/media/Hippogriff.jpg": "/static/media/Hippogriff.2b9b375dec2f68baacb5.jpg",
-    "static/media/5xanimal.jpg": "/static/media/5xanimal.f7b2d8bef6b7fd641909.jpg",
     "static/media/Mandrake.jpg": "/static/media/Mandrake.6d83ee50a2fe2d1cfd9c.jpg",
+    "static/media/5xanimal.jpg": "/static/media/5xanimal.95047351bd551fddf2f0.jpg",
+    "static/media/4xanimal.jpg": "/static/media/4xanimal.a26fc863c423b78a04f5.jpg",
+    "static/media/3xanimal.jpg": "/static/media/3xanimal.456e8880bfb7eef451f0.jpg",
+    "static/media/yellowforest.jpg": "/static/media/yellowforest.0391050037b75f70f7bc.jpg",
     "static/media/recording10.m4a": "/static/media/recording10.9271eac4150b398b299e.m4a",
     "static/media/lumos - Made with Clipchamp.m4a": "/static/media/lumos - Made with Clipchamp.3ed3da49e6295aff0c1b.m4a",
     "static/media/Harry Potter Charm Cards (2).jpg": "/static/media/Harry Potter Charm Cards (2).46eed1c3bf44f6f243ee.jpg",
@@ -20,11 +20,11 @@
     "static/media/images.jpg": "/static/media/images.a445b963fd61267c3b0d.jpg",
     "index.html": "/index.html",
     "main.0ef2c5ea.css.map": "/static/css/main.0ef2c5ea.css.map",
-    "main.8a2dec27.js.map": "/static/js/main.8a2dec27.js.map",
+    "main.20be71ef.js.map": "/static/js/main.20be71ef.js.map",
     "453.542084a0.chunk.js.map": "/static/js/453.542084a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ef2c5ea.css",
-    "static/js/main.8a2dec27.js"
+    "static/js/main.20be71ef.js"
   ]
 }
